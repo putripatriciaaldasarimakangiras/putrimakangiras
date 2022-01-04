@@ -49,7 +49,7 @@
                                      ");
     if ($simpan) // jika simpan sukses
       {echo "<script>
-              alert('simpan Data Sukses!');
+              alert('simpan Data Sukses!'); 
               document.location = 'index.php';
             </script>";
       }
