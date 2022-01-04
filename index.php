@@ -43,7 +43,7 @@
                                      VALUES ('$_POST[tnim]', 
                                             '$_POST[tnama]', 
                                             '$_POST[talamat]', 
-                                            '$_POST[tprodi]', 
+                                             '$_POST[tprodi]', 
                                             '$_POST[tjeniskelamin]', 
                                             '$_POST[tumur]')
                                      ");
