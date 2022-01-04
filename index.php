@@ -83,7 +83,7 @@
         $vumur = $data['umur'];
       }
     }
-    if($_GET['hal'] == "hapus")
+    if($_GET['hal'] == "")
     {
       //Persiapan Hapus Data
       $hapus = mysqli_query($koneksi, "DELETE FROM crud2021 WHERE no = '$_GET[id]' ");
